@@ -1,0 +1,1 @@
+/home/onok1maru/.config/polybar/cuts/launch.sh
